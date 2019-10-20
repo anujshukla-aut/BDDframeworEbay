@@ -9,14 +9,14 @@ import com.qa.util.TestBase;
 public class checkout extends TestBase {
 
 	 
-	@FindBy (xpath="//*[@id='gh-cart']")    //cart quantity
+	@FindBy (xpath="//*[@id='gh-cart']")    
 	WebElement CartQuantity;
 	
-	@FindBy (xpath="//*[contains(@id,'isCartBtn_btn')]")    //cart link
+	@FindBy (xpath="//*[contains(@id,'isCartBtn_btn')]")    
 	WebElement Cartlink;
 	
              
-	@FindBy (xpath="//*[@data-test-id='cart-remove-item']")      //RemoveBtn 
+	@FindBy (xpath="//*[@data-test-id='cart-remove-item']")      
 	WebElement RemoveBtn;
 	
 	//initialize the elements

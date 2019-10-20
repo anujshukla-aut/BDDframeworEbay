@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.218256">
+    <testcase classname="eBay application Test" name="Search Books add to cart and remove from cart" time="0.218256">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given user opens browser....................................................undefined
+Then user is on homepage....................................................undefined
+Then user verify title of Homepage..........................................undefined
+Then user enter Books in search field.......................................undefined
+Then user click on search button............................................undefined
+Then user select first Book.................................................undefined
+Then user add book to cart..................................................undefined
+Then user verify eBay logo in checkoutpage..................................undefined
+Then user verify book added to cart.........................................undefined
+Then user remove book from cart.............................................undefined
+Then user verify cart is empty..............................................undefined
+]]>
+        </failure>
+    </testcase>
+</testsuite>

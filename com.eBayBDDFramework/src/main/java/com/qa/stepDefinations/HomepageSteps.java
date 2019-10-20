@@ -53,7 +53,7 @@ public class HomepageSteps extends TestBase {
 		 
 	  }
 	
-	//to be written tommarow
+	
 	@Then("^user verify book added to cart$")
 	public void user_verify_book_added_to_cart() throws Throwable {
 		paymentpage.cartQuantity();
@@ -64,7 +64,7 @@ public class HomepageSteps extends TestBase {
 	  }
 	@Then("^user verify cart is empty$")
 	public void user_verify_cart_is_empty() throws Throwable {
-		
+		paymentpage.shoppingcart();
 	  }
 	
 	

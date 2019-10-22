@@ -1,5 +1,5 @@
-# BDD and Page Object model Test automation framework using Selenium with Java, Maven and Cucumber.
-This is a sample project to demonstrate what is page object model using Behaviour Driven Development(BDD) and how it can used in selenium to automate any application. JUnit is used as test framework.
+# BDD and Page Object model Test automation framework using Cucumber , Selenium with Java and Maven.
+This is a sample project to demonstrate how page object model using Behaviour Driven Development(BDD) can used in selenium to automate any application. JUnit is used as test framework.
 
 Dependency Java Maven
 # Steps to clone execute the tests
